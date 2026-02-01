@@ -18,7 +18,7 @@ A full-stack task management application where users can sign up, log in, and ma
 - cd backend
 - npm install
 - npm run start
-- cd todo
+- cd frontend
 - npm install
 - npm run start
 
