@@ -27,4 +27,4 @@ A full-stack task management application where users can sign up, log in, and ma
 
 ```bash
 git clone https://github.com/Janvi-chauhan/Task-App.git
-cd task-manager-app
+cd task-app
